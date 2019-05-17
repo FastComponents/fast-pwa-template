@@ -1,5 +1,7 @@
 # Fast PWA Template
 
+The template for modern cross-platform apps.
+
 ## Features
 
 - [PWA](https://developers.google.com/web/progressive-web-apps/) score 100
