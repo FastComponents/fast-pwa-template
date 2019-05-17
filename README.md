@@ -7,6 +7,7 @@
 - Based on the [W3C Web Components standard](https://github.com/w3c/webcomponents#readme)
 - [Material Design System](https://material.io/design/)
 - Built for every device with a web browser
+- Support for Internet Explorer 11
 
 ## Built with
 
