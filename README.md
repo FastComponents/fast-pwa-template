@@ -16,9 +16,12 @@
 - [Comlink](https://github.com/GoogleChromeLabs/comlink#readme) for handling web workers
 - [KV Storage](https://developers.google.com/web/updates/2019/03/kv-storage) for fast async keyval store
 - [Rollup](https://github.com/rollup/rollup#readme) for differential loading
+- [Prettier](https://github.com/prettier/prettier#readme) for formating code
+- state management?
 
-## Style guides
+## Style guides with linters
 
 - [JavaScript Standard Style](https://github.com/standard/standard#readme)
 - [CSS Standard Style](https://github.com/stylelint/stylelint-config-standard#readme)
-- [Prettier code formatter](https://github.com/prettier/prettier#readme)
+- HTML?
+- Markdown?
