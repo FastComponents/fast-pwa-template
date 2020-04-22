@@ -4,6 +4,8 @@ The template for modern cross-platform apps.
 
 ## Features
 
+- Based on static site concept, JavaScript is just not required to read static content
+- Based on [open-wc](https://open-wc.org) recommendations
 - [PWA](https://developers.google.com/web/progressive-web-apps/) score 100
 - Evergreen vanilla JavaScript, HTML, CSS
 - Based on the [W3C Web Components standard](https://github.com/w3c/webcomponents#readme)
@@ -13,13 +15,17 @@ The template for modern cross-platform apps.
 
 ## Built with
 
-- [LitElement](https://github.com/Polymer/lit-element#readme) for UI components
+- [Eleventy](https://github.com/11ty/eleventy) transforms templates into HTML - alternative to Next.js
+  - https://github.com/JosefJezek/eleventy-base-blog
+- [Nunjucks](https://github.com/mozilla/nunjucks) templating system
+- [LitElement](https://github.com/Polymer/lit-element#readme) for complex components
+- [unistore](https://github.com/developit/unistore) for centralized state container
 - [PostCSS](https://github.com/postcss/postcss#readme) for styles
 - [Comlink](https://github.com/GoogleChromeLabs/comlink#readme) for handling web workers
 - [KV Storage](https://developers.google.com/web/updates/2019/03/kv-storage) for fast async keyval store
 - [Rollup](https://github.com/rollup/rollup#readme) for differential loading
 - [Prettier](https://github.com/prettier/prettier#readme) for formating code
-- state management?
+- [Algolia](https://www.algolia.com)?
 
 ## Style guides with linters
 
@@ -27,3 +33,33 @@ The template for modern cross-platform apps.
 - [CSS Standard Style](https://github.com/stylelint/stylelint-config-standard#readme)
 - HTML?
 - Markdown?
+
+## Libs
+
+- https://proyecto26.com/animatable-component/
+
+## CDN Hosting
+
+- [Deploy to Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/11ty/eleventy-base-blog)
+- [Deploy to Firebase]()
+  - Set redirect for 404 not found
+  - https://firebase.google.com/docs/hosting/full-config
+
+## CMS
+
+- [Netlify CMS](https://github.com/netlify/netlify-cms) - git-based CMS for Static Site Generators
+- https://ghost.org/docs/api/v3/eleventy/
+
+## Tools
+
+- [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) - for automated running Lighthouse for every commit, viewing the changes, and preventing regressions
+- [Percy](https://percy.io) - all-in-one visual review platform
+
+## CI
+
+- https://github.com/GoogleChrome/web.dev/tree/master/.github/workflows
+
+## Resources
+
+- [web.dev engineering blog #1: How we build the site and use Web Components](https://web.dev/how-we-build-webdev-and-use-web-components/)
+- [The frontend, backend, and content source code for web.dev](https://github.com/GoogleChrome/web.dev)
