@@ -54,6 +54,7 @@ The template for modern cross-platform apps.
 
 - [Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci) - for automated running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [Percy](https://percy.io) - all-in-one visual review platform
+- https://dependabot.com/docs/config-file/
 
 ## CI
 
