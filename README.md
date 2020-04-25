@@ -38,6 +38,13 @@ The template for modern cross-platform apps.
 
 - [Workbox v6](https://github.com/GoogleChrome/workbox/milestone/9?closed=1)
 - https://proyecto26.com/animatable-component/
+- https://www.chromestatus.com/samples
+- https://github.com/GoogleChromeLabs/quicklink
+  - https://getquick.link/
+
+## Android
+
+- https://developers.google.com/web/android/trusted-web-activity/lay-of-the-land
 
 ## CDN Hosting
 
