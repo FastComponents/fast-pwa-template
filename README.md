@@ -36,6 +36,7 @@ The template for modern cross-platform apps.
 
 ## Libs
 
+- [Workbox v6](https://github.com/GoogleChrome/workbox/milestone/9?closed=1)
 - https://proyecto26.com/animatable-component/
 
 ## CDN Hosting
