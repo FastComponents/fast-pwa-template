@@ -34,6 +34,16 @@ The template for modern cross-platform apps.
 - HTML?
 - Markdown?
 
+## Templates
+
+- https://github.com/PolymerLabs/start-lit-element/blob/master/index.html
+- https://github.com/PolymerLabs/lit-element-starter-js
+- https://github.com/PolymerLabs/brick-viewer
+
+## Threads
+
+- https://github.com/surma/rollup-plugin-off-main-thread
+
 ## Libs
 
 - [Workbox v6](https://github.com/GoogleChrome/workbox/milestone/9?closed=1)
@@ -41,6 +51,8 @@ The template for modern cross-platform apps.
 - https://www.chromestatus.com/samples
 - https://github.com/GoogleChromeLabs/quicklink
   - https://getquick.link/
+- https://github.com/PolymerLabs/uni-virtualizer
+
 
 ## Android
 
