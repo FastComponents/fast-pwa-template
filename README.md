@@ -55,6 +55,7 @@ The template for modern cross-platform apps.
 - https://github.com/hamedasemi/lit-element-i18n
 - https://github.com/hamedasemi/lit-element-router
 - https://github.com/jakearchibald/idb
+- https://github.com/jakearchibald/idb-keyval#readme
 
 ## CSS
 
