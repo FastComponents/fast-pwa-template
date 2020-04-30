@@ -52,7 +52,13 @@ The template for modern cross-platform apps.
 - https://github.com/GoogleChromeLabs/quicklink
   - https://getquick.link/
 - https://github.com/PolymerLabs/uni-virtualizer
+- https://github.com/hamedasemi/lit-element-i18n
+- https://github.com/hamedasemi/lit-element-router
+- https://github.com/jakearchibald/idb
 
+## CSS
+
+- https://github.com/csstools/postcss-preset-env
 
 ## Android
 
