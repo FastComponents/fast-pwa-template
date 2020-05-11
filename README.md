@@ -39,6 +39,7 @@ The template for modern cross-platform apps.
 - https://github.com/PolymerLabs/start-lit-element/blob/master/index.html
 - https://github.com/PolymerLabs/lit-element-starter-js
 - https://github.com/PolymerLabs/brick-viewer
+- https://github.com/h5bp/html5-boilerplate
 
 ## Threads
 
